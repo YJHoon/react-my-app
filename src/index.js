@@ -11,6 +11,35 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
+
+
+// function Welcome(props) {
+// return <h1>Hello, {props.name} {props.age}</h1>
+// }
+// const element = <Welcome name="sara" age="10" />
+// ReactDOM.render(
+//   element,
+//   document.getElementById('root')
+// )
+
+
+
+
+// function tick() {
+//   const element = (
+//     <div>
+//       <h1>Hello World</h1>
+//       <h2>It is {new Date().toLocaleTimeString() }.</h2>
+//     </div>
+//   )
+  
+//   ReactDOM.render(
+//     element,
+//     document.getElementById('root')
+//     );
+// }
+// setInterval(tick, 1000);
+
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: https://bit.ly/CRA-PWA
